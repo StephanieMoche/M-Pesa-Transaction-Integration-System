@@ -61,14 +61,14 @@ src/main/java/com/mpesa
 │   ├── service
 │   ├── repository
 │   ├── dto
-│   └── model
+│   └── entity
 │
 ├── transaction
 │   ├── controller
 │   ├── service
 │   ├── repository
 │   ├── dto
-│   └── model
+│   └── entity
 │
 ├── callback
 │   ├── controller
@@ -182,7 +182,7 @@ POST /api/callbacks/mpesa
 
 ## Learning Objectives
 
-This project is being built to deepen my understanding of:
+I'm doing this project to deepen my understanding of:
 
 * Backend Engineering
 * Payment Processing Systems
@@ -193,8 +193,3 @@ This project is being built to deepen my understanding of:
 * Scalable System Design
 
 ---
-
-## Author
-
-**Steph**
-Backend Developer | Java, Spring Boot, REST APIs | Fintech & Payment Systems
